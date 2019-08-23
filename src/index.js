@@ -18,7 +18,7 @@ i18n
         translation: common_de
       },
     },
-    lng: "de",
+    // lng: "de",
     fallbackLng: "en",
 
     interpolation: {
